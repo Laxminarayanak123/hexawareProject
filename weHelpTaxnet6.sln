@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weHelpTax(.net6)", "weHelpTax(.net6)\weHelpTax(.net6).csproj", "{16AA706F-0529-4FA0-A310-B6E5BD99A965}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16AA706F-0529-4FA0-A310-B6E5BD99A965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AA706F-0529-4FA0-A310-B6E5BD99A965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AA706F-0529-4FA0-A310-B6E5BD99A965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AA706F-0529-4FA0-A310-B6E5BD99A965}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {222FFE2B-92A8-4D72-BCDB-5AC5E1959E6B}
+	EndGlobalSection
+EndGlobal
