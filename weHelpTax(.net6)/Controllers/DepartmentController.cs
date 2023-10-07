@@ -32,9 +32,9 @@ namespace weHelpTax_.net6_.Controllers
         }
 
         [HttpGet("GetDept/{DeptId}")]
-        public IActionResult GetEmployeeDepartment(int DepartmentId)
+        public IActionResult GetEmployeeDepartment(int DeptId)
         {
-            Department department = deptcontext.Department.Find(DepartmentId);            
+            Department department = deptcontext.Department.Find(DeptId);            
             return StatusCode(200, department);           
         }
 
